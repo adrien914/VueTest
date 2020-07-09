@@ -1,0 +1,11 @@
+.btn:focus {
+    box-shadow: none;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.outOfStock {
+    text-decoration: line-through;
+}
